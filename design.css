@@ -1,0 +1,106 @@
+<style>
+	@import url(https://fonts.google.com/?selection.family=Mogra);
+body {margin:0;}
+
+.topnav {
+  overflow: hidden;
+  background-color: #08A933;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #F4EEF4;
+  text-align: center;
+  padding: 15px 22px;
+  text-decoration: none;
+  font-size: 20px;
+  
+  
+}
+
+.topnav a:hover {
+  background-color: #ABEBC6;
+  color: black;
+}
+
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header, footer {
+    padding: 1em;
+    color: #A95308;
+    background-color: #F1C40F;
+    clear: left;
+    text-align: center;
+	font-family: family=Mogra;
+	
+}
+nav {
+    float: left;
+    max-width: 150px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+.button {
+    background-color: #5BD853;
+    border: none;
+    color: #0D2C0B;
+    padding: 20px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 1% 10%;
+    cursor: pointer;
+	font-size: 24px;
+}
+.button2 {
+	font-size: 25x
+	background-color: #D1CEBC;
+	color: #504F48
+	text-align:right;
+	cursor: pointer;
+	}
+	</style>
+	<style type="text/css">
+                    table, td, th {
+                       /* border: solid 1px #D5D5FF;*/
+                        border-collapse: collapse;
+                        
+                    }
+                    td {font-size:16px;
+					text-align:center;
+                        background-color: #F4F4FF;
+                    }
+                    td ,th {
+                        padding: 5px;
+                    }
+                    tr:nth-child(even) td {
+                        background-color: #fff;
+					font-size:16px;
+					text-align:center;
+                    }
+                    
+                </style>
